@@ -1,0 +1,135 @@
+#title{
+    background-color: #ff4c68;
+    color: white;
+    margin-bottom: 50px;
+}
+.h1 { font-family: 'Montserrat, sans-serif'; font-size: 3.5rem; line-height:
+    1.5; font-weight: bold;}
+.container-fluid{
+    padding: 3% 15%;
+}
+body{
+    font-family: 'Montserrat';
+}
+.navbar-brand{
+    font-family: Ubuntu;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+#li{
+    padding: 0 0 4.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: Montserrat-Light;
+}
+.but{
+    margin: 5% 3% 5% 0;
+}
+.img{
+    width: 60%;
+    transform: rotate(25deg);
+    
+}
+.feature-box{
+    color:black;
+    background-color: white;
+    
+}
+.ta{
+    color: #ef8172;
+    margin-bottom: 20px;
+}
+.ta:hover{
+    color: #ff4c68;
+}
+.feature-title{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.type{
+    color: #8f8f8f;
+}
+#features{
+padding: 7% 15%;
+}
+#testimonials{
+
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+
+}
+h2{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 3rem;
+    height: 1.5;
+
+}
+.dog{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+
+
+}
+#pricing{
+    padding:100px;
+    text-align: center;
+}
+pricing-col{
+    padding: 3% 2%;
+}
+@media (max-width:1028px){
+    .img{
+        transform: rotate(0);
+        position: static;
+    }
+    #title{
+        text-align: center;
+    }
+
+}
+.foot{
+    background-color: #ff4c68;
+    text-align: center;
+
+}
+.h3{
+    font-family: Montserrat;
+    font-weight: bold;
+    color: white;
+    font-size: 3rem;
+}
+#cta{
+    margin-top: 40px;
+    background-color: #ff4c68;
+    padding-top: 40px;
+    padding-bottom: 20px;  
+}
+#t{
+    color: #8f8f8f;
+    font-size: 1rem;
+}
+#footer{
+    text-align: center;
+    padding-top:100px ;
+    padding-bottom: 100px;
+}
